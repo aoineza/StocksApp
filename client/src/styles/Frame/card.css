@@ -1,0 +1,13 @@
+.card {
+    position:fixed;
+    width: 35%;
+    height: 40%;
+    box-shadow:  0 4px 8px 2px black;
+    border-radius: 35px;
+    background: var(--main-bg-color);
+} 
+
+
+:root {
+    --main-bg-color: #829399;
+}
